@@ -4,4 +4,8 @@ It's quite red.
 test
 test2
 Last month it was close to the moon in the sky.
+<<<<<<< HEAD
 test offline yo
+=======
+test online
+>>>>>>> 8ddf901dd4d6ca0cc92df008b3262f8be9a0f9fc
